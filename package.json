@@ -1,6 +1,6 @@
 {
   "name": "got-javascript-patterns",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Repo for articles Patterns in ES6+ using Game of Thrones",
   "main": "index.js",
   "scripts": {
