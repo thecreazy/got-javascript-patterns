@@ -1,0 +1,27 @@
+{
+  "name": "got-javascript-patterns",
+  "version": "1.1.0",
+  "description": "Repo for articles Patterns in ES6+ using Game of Thrones",
+  "main": "index.js",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecreazy/got-javascript-patterns.git"
+  },
+  "keywords": [
+    "es6+",
+    "javascript",
+    "patterns"
+  ],
+  "author": "thecreazy <canella_riccardo@icloud.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thecreazy/got-javascript-patterns/issues"
+  },
+  "homepage": "https://github.com/thecreazy/got-javascript-patterns#readme",
+  "dependencies": {
+    "standard-version": "^7.1.0"
+  }
+}
